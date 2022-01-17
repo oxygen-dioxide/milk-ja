@@ -1,0 +1,3 @@
+name=Milk
+image=milk.bmp
+sample=sample.wav
