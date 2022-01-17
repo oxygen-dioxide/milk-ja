@@ -12,6 +12,8 @@
 *.vs4ufrq
 *.frc
 *.dio
+*.ctspec
+*.d4c
 
 #Deepvocal
 *.DVModel
