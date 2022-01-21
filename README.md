@@ -2,12 +2,19 @@
 
 **English** | [中文](README_zh.md)
 
+[Github](https://github.com/oxygen-dioxide/milk-jpn) | 
+[Gitlab](https://gitlab.com/oxygen-dioxide/milk-jpn) | 
+[Bitbucket](https://bitbucket.org/oxygendioxide/milk-jpn/src/main/) | 
+[Coding]()
+
 Milk is a UTAU virtual singer developed by Xepheris. This repo is a mirror site of Milk's Japanese VCV UTAU voicebank. No changes are made on wav files and oto.ini files.
 
 According to Milk's [Voicebank Terms of Use](license.md), redistribution of voicebanks is allowed without permission, so long as the voicebank name and author are credited, and any changes you have made are clearly stated.
 
 ## Download
 - [Download from github](https://github.com/oxygen-dioxide/milk-jpn/archive/refs/heads/main.zip)
+- [Download from gitlab](https://gitlab.com/oxygen-dioxide/milk-jpn/-/archive/main/milk-jpn-main.zip)
+- [Download from bitbucket](https://bitbucket.org/oxygendioxide/milk-jpn/get/main.zip)
 
 ## Tech Specs
 - 6 pitches（A3、F3、D4、G4、PowerC5、Falsetto）
